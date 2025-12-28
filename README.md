@@ -418,9 +418,5 @@ Released under the same open-source license as the Trongate framework (MIT-style
 
 - [Trongate Framework](https://trongate.io)
 - [Trongate Documentation](https://trongate.io/documentation)
-- [Date and Time Handling in Trongate v2](https://trongate.io/documentation/trongate_php_framework/working-with-dates-and-times)
-- [Related Module: Monthly Reports](https://github.com/trongate/Trongate-v2-Monthly-Reports-Module) - Demonstrates `form_month()` usage
-- [Related Module: Events Scheduling](https://github.com/trongate/Trongate-v2-Events-Module) - Demonstrates `form_datetime_local()` usage
-- [Related Module: Friends Birthday Tracker](https://github.com/trongate/Trongate-v2-Friends-Module) - Demonstrates `form_date()` usage
 
 Happy weekly scheduling with Trongate! 📅📋
